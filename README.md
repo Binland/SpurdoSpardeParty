@@ -1,4 +1,5 @@
 # SpurdoSpardeParty
 
 Hosted here:
-spurdosparde.party
+[spurdosparde.party](https://spurdosparde.party)
+
