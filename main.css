@@ -1,9 +1,29 @@
 body {
-  background-color: grey;
+	background-color: whitesmoke;
+	margin: 0;
 }
 
 #top_bar {
-  color: dark grey;
-  overflow: hidden;
+	background-color: #363635;
+	overflow: hidden;
+}
+#top_bar a {
+	float: left;
+	padding: 10px 14px;
+	text-align: center;
+	text-decoration: none;
+	font-size: 14px;
+	background-color: #363635;
+	color: whitesmoke;
+}
+#top_bar a:hover {
+	background-color: whitesmoke;
+	color: #363635;
+}
 
+p {
+	margin: 10px;
+}
+h1 {
+	margin: 10px;
 }
