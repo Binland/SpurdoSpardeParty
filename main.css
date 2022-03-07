@@ -1,3 +1,9 @@
 body {
   background-color: grey;
 }
+
+#top_bar {
+  color: dark grey;
+  overflow: hidden;
+
+}
