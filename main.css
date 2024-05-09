@@ -17,7 +17,10 @@ body {
 	font-weight: bold;
 	background-color: #363635;
 	color: whitesmoke;
-	font-size:1vw;
+	font-size:1.5vmin;
+}
+#article {
+  max-width: 95%;
 }
 #top_bar a:hover {
 	background-color: whitesmoke;
