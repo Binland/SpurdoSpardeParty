@@ -10,10 +10,10 @@ body {
 }
 #top_bar a {
 	float: left;
-	padding: 10px 14px;
+	padding: 2.2mm 2.2mm;
 	text-align: center;
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 15px;
 	font-weight: bold;
 	background-color: #363635;
 	color: whitesmoke;
@@ -27,9 +27,7 @@ body {
 	color: #363635;
 }
 
+h1, h2, h3,
 p {
-	margin: 10px;
-}
-h1 {
-	margin: 10px;
+	margin: 3mm;
 }
